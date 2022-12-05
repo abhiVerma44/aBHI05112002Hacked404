@@ -19,7 +19,7 @@
 - 💬 Ask me about **JAVA** - 📫 How to reach me **doydotdgucxtisits@gmail.com**
 - 🎓  I'm currently studying java backend using springboot and databases.
 - 📄 Know about my experiences,
-[**Resume**](https://drive.google.com/file/d/1uHeBJhCFddxTgtYnwEilcgAVvGKdl9Il/view?usp=sharing)
+[**Resume**](https://drive.google.com/file/d/15Pm0mpH-THpPtDnIoh5b7jAtbR8gF-bh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
