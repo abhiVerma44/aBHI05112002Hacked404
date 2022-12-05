@@ -16,8 +16,11 @@
 
 - 👨‍💻 All of my projects are available at
 [**Portfolio**](https://abhi05112002hacked404.github.io/Abhishek-kumar.github.io/)
-- 💬 Ask me about **JAVA** - 📫 How to reach me **doydotdgucxtisits@gmail.com**
+- 🌱 I’m currently learning Java Backend at Masai School.
 - 🎓  I'm currently studying java backend using springboot and databases.
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
+- 💬 Ask me about **JAVA** 
+- 📫 How to reach me **doydotdgucxtisits@gmail.com**
 - 📄 Know about my experiences,
 [**Resume**](https://drive.google.com/file/d/15Pm0mpH-THpPtDnIoh5b7jAtbR8gF-bh/view?usp=sharing)
 
