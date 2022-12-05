@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abhishek kumar](https://www.linkedin.com/in/abhishek-kumar-771b9622b/?midToken=AQGGPq-5LKrLLQ&midSig=067Gg5pinO4Gs1&trk=eml-email_network_conversations_01-header-33-profile&trkEmail=eml-email_network_conversations_01-header-33-profile-null-fzywud%7El88tbumi%7Er0-null-neptune%2Fprofile%7Evanity%2Eview)" target="blank"
+  <a href="https://linkedin.com/in/abhishek kumar](https://www.linkedin.com/in/abhishek-kumar-771b9622b/?midToken=AQGGPq-5LKrLLQ&midSig=067Gg5pinO4Gs1&trk=eml-email_network_conversations_01-header-33-profile&trkEmail=eml-email_network_conversations_01-header-33-profile-null-fzywud%7El88tbumi%7Er0-null-neptune%2Fprofile%7Evanity%2Eview)" 
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
