@@ -13,10 +13,11 @@
     alt="abhi05112002hacked404"
   />
 </p>
-<h3 align="left">About Me:</h3>
+
 - 👨‍💻 All of my projects are available at
 [**Portfolio**](https://abhi05112002hacked404.github.io/Abhishek-kumar.github.io/)
 - 💬 Ask me about **JAVA** - 📫 How to reach me **doydotdgucxtisits@gmail.com**
+- 🎓  I'm currently studying java backend using springboot and databases.
 - 📄 Know about my experiences,
 [**Resume**](https://drive.google.com/file/d/1uHeBJhCFddxTgtYnwEilcgAVvGKdl9Il/view?usp=sharing)
 
@@ -111,6 +112,7 @@
     />
   </a>
 </p>
+<h3 align="left">Github Stats:</h3>
 
 [![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aBHI05112002Hacked404&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
