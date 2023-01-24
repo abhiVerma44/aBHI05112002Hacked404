@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization
+
+
 <img
   align="right"
   alt="coding"
