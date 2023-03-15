@@ -25,7 +25,7 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 - 💬 Ask me about **JAVA** 
 - 📫 How to reach me **doydotdgucxtisits@gmail.com**
 - 📄 Know about my experiences,
-[**Resume**](https://drive.google.com/file/d/15Pm0mpH-THpPtDnIoh5b7jAtbR8gF-bh/view?usp=sharing)
+[**Resume**](https://drive.google.com/file/d/1lPUFnkdp0caodIiIxaXAWGhEbwoBChLq/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
