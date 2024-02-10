@@ -11,7 +11,7 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 
 
 - 👨‍💻 All of my projects are available at
-[**Portfolio**](https://abhi05112002hacked404.github.io/Abhishek-kumar.github.io/)
+[**Portfolio**](https://abhiVerma44.github.io/Abhishek-kumar.github.io/)
 - 🌱 I’m currently learning Java Backend at Masai School.
 - 🎓  I'm currently studying java backend using springboot and databases.
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
@@ -95,27 +95,27 @@ Self-motivated and inspiring a java backend developer with 1200+ hours of hands-
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aBHI05112002Hacked404&theme=dark&locale=en&layout=compact" alt="aBHI05112002Hacked404" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiVerma44&theme=dark&locale=en&layout=compact" alt="abhiVerma44" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aBHI05112002Hacked404&theme=dark" alt="aBHI05112002Hacked404" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiVerma44&theme=dark" alt="abhiVerma44" /></p>
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aBHI05112002Hacked404&show_icons=true&theme=dark" alt="aBHI05112002Hacked404" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiVerma44&show_icons=true&theme=dark" alt="abhiVerma44" /></p>
 <br/>
 
 
 
-![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aBHI05112002Hacked404&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true)
+![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhiVerma44&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true)
 
 <p align="center">
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aBHI05112002Hacked404&column=7&theme=onedark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abhiVerma44&column=7&theme=onedark" />
   </a>
 </p>
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aBHI05112002Hacked404&label=Profile%20views&color=0e75b6&style=flat" alt="aBHI05112002Hacked404" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhiVerma44&label=Profile%20views&color=0e75b6&style=flat" alt="abhiVerma44" /> </p>
 
 
 
